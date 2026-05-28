@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Ultrasound and Diagnostic Centre",
+  "description": "Premium modern website for Bharat Ultrasound and Diagnostic Centre in Gurugram, Haryana, offering trusted ultrasound and diagnostic service scans with quick reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
